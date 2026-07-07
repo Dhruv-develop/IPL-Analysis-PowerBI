@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** that analyzes Indian Premier League (IPL) 
 
 ## 📸 Dashboard Preview
 
-![IPL Dashboard](Dashboard_preview/Dashboard_.png)
+![IPL Dashboard](Dashboard_preview/Dashboard.png)
 
 ---
 
