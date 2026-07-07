@@ -90,20 +90,6 @@ https://www.kaggle.com/datasets/dhruvrapariya/ipl-dataset-2008-2025
 
 ---
 
-## 📚 DAX Concepts Used
-
-- CALCULATE()
-- FILTER()
-- RELATED()
-- RANKX()
-- SELECTEDVALUE()
-- SUMX()
-- COUNTROWS()
-- Variables (VAR)
-- Dynamic Measures
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Data Cleaning
