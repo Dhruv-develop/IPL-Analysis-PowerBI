@@ -104,26 +104,6 @@ https://www.kaggle.com/datasets/dhruvrapariya/ipl-dataset-2008-2025
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/yourusername/IPL-Analysis-PowerBI.git
-```
-
-2. Download the dataset from Kaggle.
-
-https://www.kaggle.com/datasets/dhruvrapariya/ipl-dataset-2008-2025
-
-3. Place all CSV files in the appropriate folder (if required).
-
-4. Open the `.pbix` file using **Power BI Desktop**.
-
-5. Refresh the data and explore the dashboard.
-
----
-
 ## ⭐ If you found this project helpful
 
 Please consider giving this repository a ⭐ on GitHub.
