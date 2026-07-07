@@ -54,7 +54,6 @@ The dashboard enables users to explore IPL data interactively by selecting any s
 - Power BI Desktop
 - Power Query
 - DAX (Data Analysis Expressions)
-- Microsoft Excel / CSV
 - Data Modeling
 
 ---
@@ -74,25 +73,6 @@ https://www.kaggle.com/datasets/dhruvrapariya/ipl-dataset-2008-2025
 - teams_data.csv
 
 > **Note:** The datasets are hosted on Kaggle to keep this repository lightweight.
-
----
-
-## 📁 Repository Structure
-
-```text
-IPL-Analysis-PowerBI
-│
-├── Dashboard
-│   ├── IPL Analysis.pbix
-│   └── Dashboard.png
-│
-├── Dataset
-│   └── README.md
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
 
 ---
 
@@ -158,18 +138,6 @@ https://www.kaggle.com/datasets/dhruvrapariya/ipl-dataset-2008-2025
 
 ---
 
-## 📌 Future Enhancements
-
-- Player Career Statistics
-- Team Head-to-Head Analysis
-- Venue Performance Analysis
-- Toss Impact Analysis
-- Win Probability Visualization
-- Advanced Player Comparison
-- Predictive Analytics using Machine Learning
-
----
-
 ## ⭐ If you found this project helpful
 
 Please consider giving this repository a ⭐ on GitHub.
@@ -179,10 +147,3 @@ Please consider giving this repository a ⭐ on GitHub.
 ## 👨‍💻 Author
 
 **Dhruv Rapariya**
-
-🎓 M.Sc. Information Technology
-
-💼 Aspiring Data Analyst | Power BI | Python | SQL | Machine Learning
-
-📫 Connect with me on LinkedIn:
-https://www.linkedin.com/in/dhruv-rapariya
